@@ -1,0 +1,14 @@
+C:\Github\Threading\ProcesoMultiproceso\bin\Debug\net8.0\ProcesoMultiproceso.exe
+C:\Github\Threading\ProcesoMultiproceso\bin\Debug\net8.0\ProcesoMultiproceso.deps.json
+C:\Github\Threading\ProcesoMultiproceso\bin\Debug\net8.0\ProcesoMultiproceso.runtimeconfig.json
+C:\Github\Threading\ProcesoMultiproceso\bin\Debug\net8.0\ProcesoMultiproceso.dll
+C:\Github\Threading\ProcesoMultiproceso\bin\Debug\net8.0\ProcesoMultiproceso.pdb
+C:\Github\Threading\ProcesoMultiproceso\obj\Debug\net8.0\ProcesoMultiproceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Threading\ProcesoMultiproceso\obj\Debug\net8.0\ProcesoMultiproceso.AssemblyInfoInputs.cache
+C:\Github\Threading\ProcesoMultiproceso\obj\Debug\net8.0\ProcesoMultiproceso.AssemblyInfo.cs
+C:\Github\Threading\ProcesoMultiproceso\obj\Debug\net8.0\ProcesoMultiproceso.csproj.CoreCompileInputs.cache
+C:\Github\Threading\ProcesoMultiproceso\obj\Debug\net8.0\ProcesoMultiproceso.dll
+C:\Github\Threading\ProcesoMultiproceso\obj\Debug\net8.0\refint\ProcesoMultiproceso.dll
+C:\Github\Threading\ProcesoMultiproceso\obj\Debug\net8.0\ProcesoMultiproceso.pdb
+C:\Github\Threading\ProcesoMultiproceso\obj\Debug\net8.0\ProcesoMultiproceso.genruntimeconfig.cache
+C:\Github\Threading\ProcesoMultiproceso\obj\Debug\net8.0\ref\ProcesoMultiproceso.dll

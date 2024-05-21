@@ -1,0 +1,14 @@
+C:\Github\Threading\DummyProcess\bin\Debug\net8.0\DummyProcess.exe
+C:\Github\Threading\DummyProcess\bin\Debug\net8.0\DummyProcess.deps.json
+C:\Github\Threading\DummyProcess\bin\Debug\net8.0\DummyProcess.runtimeconfig.json
+C:\Github\Threading\DummyProcess\bin\Debug\net8.0\DummyProcess.dll
+C:\Github\Threading\DummyProcess\bin\Debug\net8.0\DummyProcess.pdb
+C:\Github\Threading\DummyProcess\obj\Debug\net8.0\DummyProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Threading\DummyProcess\obj\Debug\net8.0\DummyProcess.AssemblyInfoInputs.cache
+C:\Github\Threading\DummyProcess\obj\Debug\net8.0\DummyProcess.AssemblyInfo.cs
+C:\Github\Threading\DummyProcess\obj\Debug\net8.0\DummyProcess.csproj.CoreCompileInputs.cache
+C:\Github\Threading\DummyProcess\obj\Debug\net8.0\DummyProcess.dll
+C:\Github\Threading\DummyProcess\obj\Debug\net8.0\refint\DummyProcess.dll
+C:\Github\Threading\DummyProcess\obj\Debug\net8.0\DummyProcess.pdb
+C:\Github\Threading\DummyProcess\obj\Debug\net8.0\DummyProcess.genruntimeconfig.cache
+C:\Github\Threading\DummyProcess\obj\Debug\net8.0\ref\DummyProcess.dll
